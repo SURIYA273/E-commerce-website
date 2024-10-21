@@ -74,7 +74,7 @@ Here’s a quick walkthrough of the website features:
 
 ## Video Demo
 
-[Check out the video demo here](#) (Add link to your video after uploading).
+[Check out the video demo here](https://www.linkedin.com/posts/suriya273_webdevelopment-javascript-ecommercewebsite-activity-7248347962953625604-U1aR?utm_source=share&utm_medium=member_android)
 
 ## Connect with Me
 
