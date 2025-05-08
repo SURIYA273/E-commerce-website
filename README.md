@@ -1,8 +1,8 @@
-E-commerce-website
+🛒 E-commerce-website
 
    A fully responsive e-commerce website built using **HTML**, **CSS**, and **JavaScript**, designed to showcase essential features of an online shopping platform, including product listings, a shopping cart, and checkout functionality.
 
-## Features
+🚀 Features
 
 - **Product Listing:** Browse products by category with prices and descriptions.
 - **Product Details:** Detailed view for each product with images and specifications.
@@ -11,7 +11,7 @@ E-commerce-website
 - **Checkout:** User-friendly checkout process with form validation.
 - **Search Functionality:** Search products by name and keywords.
 
-## Project Structure
+📂 Project Structure
 
 ```
 /assets
@@ -25,13 +25,13 @@ product.html          # Product detail page
 cart.html             # Cart and checkout page
 ```
 
-## Technologies Used
+🛠️ Technologies Used
 
 - **HTML5**: For the structure and layout of the website.
 - **CSS3**: To create a responsive and modern design using Flexbox and Grid.
 - **JavaScript (ES6)**: To handle dynamic functionality such as the shopping cart and checkout process.
 
-## Getting Started
+✨ Getting Started
 
 1. Clone the repository:
    ```bash
@@ -46,7 +46,7 @@ cart.html             # Cart and checkout page
    open index.html
    ```
 
-## Demo
+📸 Demo
 
 Here’s a quick walkthrough of the website features:
 
@@ -56,33 +56,35 @@ Here’s a quick walkthrough of the website features:
 
 ## Screenshots
 
-### Homepage
+🔍 Homepage
 ![Homepage Screenshot](header.jpg)
 
-### Product Listing
+🛍️ Product Listing
 ![Product Listing Screenshot](product-1.png)
 
-### Shopping Cart
+🧺 Shopping Cart
 ![Shopping Cart Screenshot](product-6.png)
 
-## Future Enhancements
+🚀 Future Enhancements
 
-- **User Authentication:** Add login functionality for personalized user experiences.
-- **Payment Gateway Integration:** Implement a mock payment gateway for checkout.
-- **Product Reviews:** Allow users to leave reviews on products.
-- **Wishlist Feature:** Add a wishlist to save items for future purchases.
+- 🚧User Authentication:** Add login functionality for personalized user experiences.
+- 🚧Payment Gateway Integration:** Implement a mock payment gateway for checkout.
+- ✅ Product Reviews:** Allow users to leave reviews on products.
+- ✅ Wishlist Feature:** Add a wishlist to save items for future purchases.
 
-## Video Demo
+📺 Video Demo
 
 [Check out the video demo here](https://www.linkedin.com/posts/suriya273_webdevelopment-javascript-ecommercewebsite-activity-7248347962953625604-U1aR?utm_source=share&utm_medium=member_android)
 
-## Connect with Me
+📬 Connect with Me
 
 Feel free to reach out if you have any suggestions or feedback:
 - [LinkedIn](https://www.linkedin.com/in/suriya273)
-- [GitHub](https://github.com/TECHGENIUS01)
+- [GitHub](https://github.com/SURIYA273)
+- [YouTube](https://youtube.com/@step-by-step_coding?si=en5-nI85oe6wWOPO)
 
-## Acknowledgments
 
-Special thanks to **@Internpe** for providing resources and inspiration for this project.
+🙌  Acknowledgments
+
+This project is part of my Web Development Internship at InternPe. Special thanks to the mentors and community for continuous support and feedback.
 
