@@ -57,13 +57,13 @@ Here’s a quick walkthrough of the website features:
 ## Screenshots
 
 ### Homepage
-![Homepage Screenshot](assets/images/homepage-screenshot.png)
+![Homepage Screenshot](header.jpg)
 
 ### Product Listing
-![Product Listing Screenshot](assets/images/product-listing-screenshot.png)
+![Product Listing Screenshot](product-1.png)
 
 ### Shopping Cart
-![Shopping Cart Screenshot](assets/images/cart-screenshot.png)
+![Shopping Cart Screenshot](product-6.png)
 
 ## Future Enhancements
 
